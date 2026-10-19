@@ -1,0 +1,27 @@
+# Anant Chaturvedi / XlaMus
+
+Personal portfolio for Anant Chaturvedi, a B.Tech Computer Science and Engineering student at Galgotias University, Greater Noida, Uttar Pradesh, batch 2026–2030.
+
+## Public pages
+- Home: /
+- About: /about/
+- Skills: /skills/
+- Projects: /projects/
+- Gaming: /gaming/
+- XlaMus: /xlamus/
+- Contact: /contact/
+- Resume: /resume/
+
+## Projects
+- Heart Disease Prediction System — Python, Scikit-learn, TensorFlow, Pandas, NumPy.
+- Inventory Management System — C++, STL, OOP.
+- NEXUS AI — completed AI-agent interface with a Next.js/React frontend, FastAPI backend and local Ollama inference plus Gemini/NVIDIA provider support.
+- Piko Pals — personal context application developed during a hackathon; connects belongings, places, tasks, routines and calendar events using local data search, photo/voice input and an interactive map.
+
+## Skills
+C++, Python, JavaScript, HTML5, CSS3, React.js, Node.js, Express.js, Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow, NumPy, Pandas, MySQL, MongoDB, Git, GitHub, VS Code, Linux, Jupyter Notebook, DSA, OOP, DBMS, Operating Systems, Computer Networks.
+
+## Identity
+- Professional name: Anant Chaturvedi
+- Creator identity: XlaMus
+- Professional email: anantchaturvedi1801@gmail.com
